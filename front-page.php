@@ -33,7 +33,7 @@ get_header(); ?>
                         <p>
                             <a href="/about/"><span class="teaser-camera glyphicon glyphicon-camera"></span></a> Katrin und Sandra.
                         </p><p>
-                            Auf jedenfall zu zweit unterwegs und gemeinsam wollen wir eins: in Bildern eure Geschichten erzählen.
+                            Auf jeden Fall zu zweit unterwegs und gemeinsam wollen wir eins: In Bildern eure Geschichten erzählen.
                         </p>
                         <p>
                             Persönlich. Lebendig. Einzigartig wie ihr. Mit unserer langjährigen Erfahrung sind wir eure Begleiter auf dem Weg zur Hochzeit und an eurem großen Tag.
