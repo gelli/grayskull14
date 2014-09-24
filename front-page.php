@@ -58,8 +58,7 @@ get_header(); ?>
             <div class="col-md-8">
                 <div class="row videoWrapper">
                     <iframe src="http://player.vimeo.com/video/<?php echo get_post_meta(get_the_id(), "video", true); ?>?title=0&amp;byline=0&amp;portrait=0&amp;autoplay=0"
-                            frameborder="0" webkitallowfullscreen mozallowfullscreen
-                            allowfullscreen>
+                            frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
                     </iframe>
                 </div>
 
