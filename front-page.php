@@ -32,14 +32,15 @@ get_header(); ?>
                     <div class="teaser-box text-left">
                         <p>
                             <a href="/about/"><span class="teaser-camera glyphicon glyphicon-camera"></span></a> Katrin und Sandra.
-                        </p><p>
-                            Auf jeden Fall zu zweit unterwegs und gemeinsam wollen wir eins: In Bildern eure Geschichten erzählen.
                         </p>
                         <p>
-                            Persönlich. Lebendig. Einzigartig wie ihr. Mit unserer langjährigen Erfahrung sind wir eure Begleiter auf dem Weg zur Hochzeit und an eurem großen Tag.
-                            Dabei schaffen wir fotografische Erinnerungen, die noch in Jahrzehnten die großen Momente eurer Liebe lebendig werden lassen.</p>
+                            Hochzeitsfotografen mit Liebe zum Detail. Wir halten eure Hochzeit in Foto und Film für euch und eure Enkelkinder fest. Auf jeden Fall zu zweit unterwegs und gemeinsam wollen wir eins: In Bildern eure Geschichten erzählen.
+                        </p>
+                        <p>
+                            Persönlich. Lebendig. Einzigartig wie ihr. Mit unserer langjährigen Erfahrung sind wir eure Begleiter auf dem Weg zur Hochzeit und an eurem großen Tag. Dabei schaffen wir fotografische Erinnerungen, die noch in Jahrzehnten die großen Momente eurer Liebe lebendig werden lassen.
+                        </p>
                         <p>Es ist eure Hochzeit. Entspannt euch! Wir sind für euch da.</p>
-                        <p class="text-right">Katrin und Sandra.</p>
+                        <p class="text-right">Stay marvelous - Katrin und Sandra.</p>
                     </div>
 
                     <div class="teaser-box sam-boxed">
