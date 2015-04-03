@@ -19,8 +19,8 @@ get_header(); ?>
                 <h1>Katrin &amp; Sandra</1>
                 <h2>Hochzeitsfotografen mit Liebe zum Detail</h2>
                 <div class="jumbo-button-row btn-toolbar">
-                    <a class="btn btn-lg btn-primary" href="/hochzeitsanfrage/">Hochzeitsanfrage</a>
-                    <a class="btn btn-lg btn-default" href="/blog/">Blog</a>
+                    <a class="btn btn-lg btn-primary" href="/hochzeitsanfrage/"><span class="glyphicon glyphicon-heart"></span> Hochzeitsanfrage</a>
+                    <a class="btn btn-lg btn-default" href="/blog/"><span class="glyphicon glyphicon-list-alt"></span> Blog</a>
                 </div>
             </div>
         </div>
