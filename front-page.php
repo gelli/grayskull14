@@ -14,16 +14,7 @@
 get_header(); ?>
     <div id="main-content" class="main-content">
 
-        <div class="jumbotron hidden-xs">
-            <div class="jumbo-content text-center">
-                <h1>Katrin &amp; Sandra</1>
-                <h2>Hochzeitsfotografen mit Liebe zum Detail</h2>
-                <div class="jumbo-button-row btn-toolbar">
-                    <a class="btn btn-lg btn-primary" href="/hochzeitsanfrage/"><span class="glyphicon glyphicon-heart"></span> Hochzeitsanfrage</a>
-                    <a class="btn btn-lg btn-default" href="/blog/"><span class="glyphicon glyphicon-list-alt"></span> Blog</a>
-                </div>
-            </div>
-        </div>
+        <?php get_template_part('part', 'carousel') ?>
 
         <div clas="clearfix" style="margin-top:20px;"></div>
 

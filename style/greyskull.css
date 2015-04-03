@@ -2,31 +2,109 @@
 @import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
 @import url(http://fonts.googleapis.com/css?family=Great+Vibes);
 
-.container .jumbotron {
-    border-radius: 0px;
-    background-image: url(../image/jumbotron-wide-dark.jpg);
-    background-position: 0% 0%; 
-    background-color: #fff;
-    background-size: cover;
-    background-repeat: no-repeat;
-    color: #eee;
-    width: 100%;
-    height: 0;
-    padding-top: 52%;
-    position: relative;
-    margin-bottom:50px;
-    margin-top: 30px;
+body {
+    font-size: 16px;
 }
 
 .jumbo-button-row {
-    margin-top: 50px;
+    margin-top: 15px;
 }
 
 .jumbo-content {
+    color: #eee;
     position: absolute;
-    bottom:30%;
-    left:0;
-    right:0;   
+    bottom:15%;
+    left:15%;
+    right:15%;   
+}
+
+.carousel-wrapper {
+    margin-top: 30px;
+    position: relative;
+    margin-bottom:50px;
+}
+
+#carousel-jumbotron .item {
+    padding-top: 56.22%;
+    background-position: 0% 0%; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.carousel-control .icon-prev, .carousel-control .icon-next,
+.carousel-control .glyphicon-chevron-left,
+.carousel-control .glyphicon-chevron-right {
+    top: 75%;
+}
+
+.item-1 {
+    background-image: url(../image/jumbotron/01.jpg);
+}
+.item-2 {
+    background-image: url(../image/jumbotron/02.jpg);
+}
+.item-3 {
+    background-image: url(../image/jumbotron/03.jpg);
+}
+.item-4 {
+    background-image: url(../image/jumbotron/04.jpg);
+}
+.item-5 {
+    background-image: url(../image/jumbotron/05.jpg);
+}
+.item-6 {
+    background-image: url(../image/jumbotron/06.jpg);
+}
+.item-7 {
+    background-image: url(../image/jumbotron/07.jpg);
+}
+.item-8 {
+    background-image: url(../image/jumbotron/08.jpg);
+}
+.item-9 {
+    background-image: url(../image/jumbotron/09.jpg);
+}
+.item-10 {
+    background-image: url(../image/jumbotron/10.jpg);
+}
+.item-11 {
+    background-image: url(../image/jumbotron/11.jpg);
+}
+.item-12 {
+    background-image: url(../image/jumbotron/12.jpg);
+}
+.item-13 {
+    background-image: url(../image/jumbotron/13.jpg);
+}
+.item-14 {
+    background-image: url(../image/jumbotron/14.jpg);
+}
+.item-15 {
+    background-image: url(../image/jumbotron/15.jpg);
+}
+.item-16 {
+    background-image: url(../image/jumbotron/16.jpg);
+}
+.item-17 {
+    background-image: url(../image/jumbotron/17.jpg);
+}
+.item-18 {
+    background-image: url(../image/jumbotron/18.jpg);
+}
+.item-19 {
+    background-image: url(../image/jumbotron/19.jpg);
+}
+.item-20 {
+    background-image: url(../image/jumbotron/20.jpg);
+}
+.item-21 {
+    background-image: url(../image/jumbotron/21.jpg);
+}
+.item-22 {
+    background-image: url(../image/jumbotron/22.jpg);
+}
+.item-23 {
+    background-image: url(../image/jumbotron/23.jpg);
 }
 
 .glyphicon {
@@ -74,15 +152,14 @@ code {
     font-weight: bold;
 }
 
-
 .btn-primary {
     color: #FFF;
     background-color: #94bbc8;
     border-color: #82B0BF;
 }
 
-
-.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active,
+.btn-primary.active, .open .dropdown-toggle.btn-primary {
     color: #FFF;
     background-color: #ffd300;
     border-color: #E6BF00;
