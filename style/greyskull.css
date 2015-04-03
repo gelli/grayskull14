@@ -26,8 +26,15 @@
     position: absolute;
     bottom:30%;
     left:0;
-    right:0;
-    
+    right:0;   
+}
+
+.glyphicon {
+    top: 2px;
+}
+
+.lead .glyphicon {
+    top: 6px;
 }
 
 code {
@@ -433,6 +440,14 @@ li.sam-icon-pencil > a:before {
     font-size: 100%;
     margin-right: 5px;
     content: "\270f";
+    font-family: 'Glyphicons Halflings';
+}
+
+li.sam-icon-canon > a:before {
+    vertical-align: -10%;
+    font-size: 100%;
+    margin-right: 5px;
+    content: "\e046";
     font-family: 'Glyphicons Halflings';
 }
 
