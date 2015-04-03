@@ -179,7 +179,8 @@ header.entry-header {
     right: 0;
     background: rgba(0, 0, 0, 0.4);
     color: #fff;
-    margin: 0;
+    margin: 0 auto;
+    max-width: 400px;
 
     text-align: center;
     vertical-align: bottom;
@@ -772,6 +773,6 @@ hr {
 }
 
 
-.sam-hero-row {
+.sam-hero-row > div {
     padding-bottom: 20px;
 }
