@@ -634,6 +634,7 @@ li.sam-icon-book > a:before {
     background-color: #94bbc8;
     color: #fff;
     margin: 0 0 20px 0;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
 }
 
 .hero-image {
