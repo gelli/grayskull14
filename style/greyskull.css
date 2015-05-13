@@ -2,8 +2,83 @@
 @import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
 @import url(http://fonts.googleapis.com/css?family=Great+Vibes);
 
+html {
+    -webkit-font-smoothing: antialiased;
+    /* image-rendering: optimizeSpeed;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: -webkit-optimize-contrast;
+    -ms-interpolation-mode: nearest-neighbor; */ 
+}
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 1.25),
+only screen and ( min-device-pixel-ratio: 1.25),
+only screen and ( min-resolution: 200dpi),
+only screen and ( min-resolution: 1.25dppx)
+{
+    html {
+        -webkit-font-smoothing: subpixel-antialiased;
+    }
+}
+
 body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f9f9f9;
+    color: #5b5c5c;
     font-size: 16px;
+}
+
+h1 {
+    margin: 40px auto;
+    text-align: center;
+}
+
+.card-two {
+    background-color: #94bbc8;
+    color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    box-shadow: 0 12px 15px 0 rgba(0, 0, 0, 0.24);
+    overflow: hidden;
+    position: relative;
+    max-width: 360px;
+}
+
+.card-size-one {
+    height: 360px;
+}
+
+.card-size-two {
+    height: 720px;
+}
+
+.card-two-visual {
+    transition: top 0.6s ease-out;
+    position: absolute;
+    top: 0;
+}
+
+.card-two:hover .card-two-visual {
+    top: -1000px;
+}
+
+.card-two-content {
+    margin: 0 auto;
+    font-size: 125%;
+}
+
+.card-size-two .card-two-content {
+    margin-top: 150px;
+}
+
+.card-size-one .card-two-content {
+    margin-top: 50px;
+}
+
+
+.card-two-content h2 {
+    margin-bottom: 20px;
 }
 
 .jumbo-button-row {
@@ -664,15 +739,6 @@ li.sam-icon-book > a:before {
     /* border-radius: 5px; */
     /* box-shadow: 0 0 4px -2px rgba(0,0,0,0.2); */
     display: block;
-}
-
-
-
-body {
-    font-family: 'Open Sans', sans-serif;
-    /* background-color: #d6e3e8; */
-    background-color: white;
-    color: #5b5c5c;
 }
 
 .top-buffer { margin-top:20px; }
