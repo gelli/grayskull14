@@ -7,7 +7,7 @@
  * @since Twenty Fourteen 1.0
  */
 ?>
-
+    <div class="col-md-12 col-lg-10 col-lg-offset-1">
         <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
             <?php
             // Page thumbnail and title.
@@ -29,3 +29,4 @@
                 ?>
             </div><!-- .entry-content -->
         </article><!-- #post-## -->
+    </div>
