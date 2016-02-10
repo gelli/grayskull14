@@ -10,9 +10,9 @@
                 <h1>Kontakt</h1>
                 <hr/>
                 <p><b>Katrin and Sandra</b></p>
-                    <p>
-                Ina-Seidel-Str.7      <br/>
-                76684 Oestringen           </p>
+                <p>
+                  Allmendstr. 25      <br/>
+                  76684 Oestringen           </p>
                 <p>
                     <a href="mailto:mail@katrinandsandra.de"><span class="glyphicon glyphicon-envelope"></span> mail@katrinandsandra.de</a><br/>
                     <span class="glyphicon glyphicon-phone-alt"></span> +49 (0)176 88121418
@@ -45,7 +45,6 @@
                 </div>
             </div>
         </div>
-
         <?php // get_sidebar( 'footer') ?>
     </div>
 </footer>
