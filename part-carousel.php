@@ -66,7 +66,7 @@
     <h1>Katrin &amp; Sandra</1>
     <h2>Hochzeitsfotografen mit Liebe zum Detail</h2>
     <div class="jumbo-button-row btn-toolbar">
-        <a class="btn btn-lg btn-primary" href="/hochzeitsanfrage/"><span class="glyphicon glyphicon-heart"></span> Fotos für euren schönsten Tag</a>
+        <a class="btn btn-lg btn-default" href="/hochzeitsanfrage/"><span class="glyphicon glyphicon-heart"></span> Fotos für euren schönsten Tag</a>
     </div>
   </div>
 </div>
