@@ -9,9 +9,7 @@
  * @since Twenty Fourteen 1.0
  */
 ?>
-
-
-<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
+<article id="post-<?php the_ID(); ?>" <?php post_class("sam-content"); ?>>
 
 	<header class="entry-header">
         <div class="post-date">
@@ -81,6 +79,7 @@
 			) );
 		?>
 	</div><!-- .entry-content -->
+	<div class="clearfix"></div>
 
 	<?php endif; ?>
     <!--
