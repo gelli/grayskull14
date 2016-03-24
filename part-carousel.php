@@ -23,7 +23,9 @@
       <li data-target="#carousel-jumbotron" data-slide-to="18"></li>
       <li data-target="#carousel-jumbotron" data-slide-to="19"></li>
       <li data-target="#carousel-jumbotron" data-slide-to="20"></li>
-    </ol>
+      <li data-target="#carousel-jumbotron" data-slide-to="21"></li>
+      <li data-target="#carousel-jumbotron" data-slide-to="22"></li>
+</ol>
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
@@ -49,6 +51,7 @@
       <div class="item item-20"></div>
       <div class="item item-21"></div>
       <div class="item item-22"></div>
+      <div class="item item-23"></div>
     </div>
 
     <!-- Controls -->

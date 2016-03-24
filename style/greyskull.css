@@ -7,7 +7,7 @@ html {
     /* image-rendering: optimizeSpeed;
     image-rendering: -moz-crisp-edges;
     image-rendering: -webkit-optimize-contrast;
-    -ms-interpolation-mode: nearest-neighbor; */ 
+    -ms-interpolation-mode: nearest-neighbor; */
 }
 
 @media
@@ -90,7 +90,7 @@ h1 {
     position: absolute;
     bottom:15%;
     left:15%;
-    right:15%;   
+    right:15%;
 }
 
 .carousel-wrapper {
@@ -101,7 +101,7 @@ h1 {
 
 #carousel-jumbotron .item {
     padding-top: 56.22%;
-    background-position: 0% 0%; 
+    background-position: 0% 0%;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -178,6 +178,10 @@ h1 {
 .item-22 {
     background-image: url(../image/jumbotron/22.jpg);
 }
+.item-23 {
+    background-image: url(../image/jumbotron/23.jpg);
+}
+
 
 .glyphicon {
     top: 2px;
