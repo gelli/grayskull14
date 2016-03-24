@@ -27,7 +27,7 @@ get_header(); ?>
 
         <div id="primary" class="content-area">
             <div id="content" class="site-content" role="main">
-                <div class="row sam-content">
+                <div class="row">
                     <div class="col-md-9">
 
                         <?php

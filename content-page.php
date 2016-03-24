@@ -7,12 +7,12 @@
  * @since Twenty Fourteen 1.0
  */
 ?>
-    <div class="col-md-12 col-lg-10 col-lg-offset-1">
+    <div class="sam-content">
         <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
-            <?php
-            // Page thumbnail and title.
 
-            the_title( '<header class="text-center entry-header"><h1 class="entry-title">', '</h1></header><!-- .entry-header -->' );
+            <?php
+              // Page thumbnail and title.
+              the_title( '<header class="text-center entry-header"><h1 class="entry-title">', '</h1></header>' );
             ?>
 
             <div class="entry-content">

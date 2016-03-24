@@ -18,7 +18,7 @@ get_header(); ?>
 
         <div clas="clearfix" style="margin-top:20px;"></div>
 
-        <!-- small hero images 
+        <!-- small hero images
         <div class="row sam-hero-row text-center">
             <div class="col-xs-12 col-sm-6 col-md-3">
                 <div>
@@ -58,7 +58,7 @@ get_header(); ?>
 
         <div class="row">
             <div class="col-md-4">
-                <div class="welcome text-center">
+                <div class="welcome text-center sam-blog-content">
                     <a href="<?php echo esc_url( home_url( '/' ) ); ?>"><img src="<?php echo get_template_directory_uri()?>/image/stern.png" style="width:120px;"/></a>
                     <h1 style="font-size:3.6em;" class="sam-color-two">Welcome</h1>
                     <div class="teaser-box text-left">
@@ -91,7 +91,7 @@ get_header(); ?>
                         </iframe>
                     </div>
 
-                    <div class="teaser-box sam-boxed">
+                    <div class="teaser-box">
                         <p>
                             <a target="_blank" href="http://www.instagram.com/katrinandsandra" class="sam-icon-size-48 sam-icon sam-color-two">&#xf102;</a>
                             <a target="_blank" href="http://www.instagram.com/katrinandsandra">Folge <strong>Katrin</strong> auf Instagram</a>
@@ -103,7 +103,7 @@ get_header(); ?>
                     </div>
                 </div>
             </div> <!-- col-md-4 -->
-            
+
             <div class="col-md-8" style="margin-bottom: 20px">
 
                 <?php
@@ -127,7 +127,7 @@ get_header(); ?>
                     get_template_part( 'content', 'none' );
 
                 endif;
-                ?>  
+                ?>
                 <div class="row text-center">
                     <div class="col-xs-12">
                         <a class="btn btn-primary" href="/wedding/">Weitere Hochzeiten</a>
