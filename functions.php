@@ -1,6 +1,7 @@
 <?php
 
 require(get_template_directory().'/vnd/wp-bootstrap-navwalker/wp_bootstrap_navwalker.php');
+require(get_template_directory().'/lib/menus.php');
 
 /**
  * Enqueue scripts and styles

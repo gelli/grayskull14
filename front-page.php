@@ -18,44 +18,6 @@ get_header(); ?>
 
         <div clas="clearfix" style="margin-top:20px;"></div>
 
-        <!-- small hero images
-        <div class="row sam-hero-row text-center">
-            <div class="col-xs-12 col-sm-6 col-md-3">
-                <div>
-                    <a href="/wedding/"  class="img-wrap">
-                        <img class="center-block img-responsive" src="<?php echo get_template_directory_uri();?>/image/1_Wedding.png"/>
-                        <div></div>
-                    </a>
-                </div>
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-3">
-                <div>
-                    <a href="/blog/" class="img-wrap">
-                        <img class="center-block img-responsive" src="<?php echo get_template_directory_uri();?>/image/2_Lifestyle.png"/>
-                        <div></div>
-                    </a>
-                </div>
-            </div>
-
-            <div class="col-xs-12 col-sm-6 col-md-3">
-                <div>
-                    <a href="/films/"  class="img-wrap">
-                        <img class="center-block img-responsive" src="<?php echo get_template_directory_uri();?>/image/3_Films.png"/>
-                        <div></div>
-                     </a>
-                </div>
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-3">
-                <div>
-                    <a href="/workshops/" class="img-wrap">
-                        <img class="center-block img-responsive" src="<?php echo get_template_directory_uri();?>/image/4_workshop.png"/>
-                        <div></div>
-                    </a>
-                </div>
-            </div>
-        </div>
-        end: small hero images -->
-
         <div class="row">
             <div class="col-md-4">
                 <div class="welcome text-center sam-blog-content">
