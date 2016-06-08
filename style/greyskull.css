@@ -29,6 +29,10 @@ h1 {
     text-align: center;
 }
 
+.primary-sidebar {
+  margin: 0 15px;
+}
+
 .card-two {
     background-color: #a6d8de;
     color: #fff;
