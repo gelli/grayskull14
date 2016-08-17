@@ -34,7 +34,7 @@ h1 {
 }
 
 .card-two {
-    background-color: #a6d8de;
+    background-color: #22405f;
     color: #fff;
     margin-left: auto;
     margin-right: auto;
@@ -216,12 +216,12 @@ code {
 @media (max-width: 767px) {
 
     .navbar-default .navbar-nav .open .dropdown-menu > li > a {
-        color: #a6d8de;
+        color: #22405f;
     }
 
     .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
     .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
-        color: #a6d8de;
+        color: #22405f;
         text-decoration: underline;
     }
 
@@ -256,7 +256,7 @@ code {
 
 .btn-default:hover, .btn-default:focus, .btn-default:active,
 .btn-default.active, .open .dropdown-toggle.btn-default {
-    color: #a8948b;
+    color: #fff;
     background-color: #f9f1b5;
     border-color: #f9f1b5;
 }
@@ -270,8 +270,8 @@ code {
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active,
 .btn-primary.active, .open .dropdown-toggle.btn-primary {
     color: #fff;
-    background-color: #a6d8de;
-    border-color: #a6d8de;
+    background-color: #22405f;
+    border-color: #22405f;
 }
 
 
@@ -286,7 +286,7 @@ code {
     padding-bottom: 60px;
     border-radius: 50%;
     overflow: hidden;
-    background: #a6d8de;
+    background: #22405f;
     color: #eee;
     float:left;
     text-align:center;
@@ -342,7 +342,7 @@ input#submit:hover {
 }
 
 header.entry-header {
-    border-bottom: 2px solid #a6d8de;
+    border-bottom: 2px solid #22405f;
     margin-bottom:10px;
     padding-bottom:5px;
 }
@@ -416,13 +416,13 @@ header.entry-header {
 }
 
 a {
-    color: #a6d8de;
+    color: #22405f;
     text-decoration: none;
 }
 
 a:hover,
 a:focus {
-    color: #a6d8de;
+    color: #22405f;
     text-decoration: underline;
 }
 
@@ -457,7 +457,7 @@ a:focus {
 .teaser-camera {
     font-size: 150%;
     padding-right:5px;
-    color: #a6d8de;
+    color: #22405f;
 }
 
 .textwidget {
@@ -503,14 +503,14 @@ a:focus {
 }
 
 .page-header {
-    color: #a6d8de;
+    color: #22405f;
     font-family: 'Yanone Kaffeesatz';
 }
 
 .page-header:hover,
 .page-header:focus {
     text-decoration: none;
-    color: #a6d8de;
+    color: #22405f;
 }
 
 .page-header h1 {
@@ -633,12 +633,12 @@ h1.entry-title {
 
 .sam-color-one {
     /* color: #14728e; */
-    color: #a6d8de;
+    color: #22405f;
 
 }
 
 .sam-color-two {
-    color: #ae9c96;
+    color: #e5c100;
 }
 
 .sam-color-grey {
@@ -734,25 +734,25 @@ footer a {
 }
 
 footer a:hover {
-  color: #f9f1b5;
+  color: #e5c100;
 }
 
 
 hr {
-    color: #a6d8de;
+    color: #22405f;
     border-width: 2px;
 }
 
 /*.sam-blog-content a, */
 .navbar-default .navbar-nav > li > a {
-    color: #a6d8de;
+    color: #22405f;
 }
 
 .sam-blog-content a:hover,
 .sam-blog-content a:focus,
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-    color: #a6d8de;
+    color: #22405f;
     text-decoration: underline;
     background-color: transparent;
 }
@@ -781,7 +781,7 @@ hr {
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
     color: #fff;
-    background-color: #a6d8de;
+    background-color: #22405f;
 }
 
 /* custom widget css */
@@ -822,7 +822,7 @@ hr {
     padding: 6px 12px;
     margin-left: -1px;
     line-height: 1.42857143;
-    color: #a6d8de;
+    color: #22405f;
     text-decoration: none;
     background-color: #fff;
     border: 1px solid #ddd;
@@ -856,8 +856,8 @@ hr {
     z-index: 2;
     color: #fff;
     cursor: default;
-    background-color: #a6d8de;
-    border-color: #a6d8de;
+    background-color: #22405f;
+    border-color: #22405f;
 }
 
 
